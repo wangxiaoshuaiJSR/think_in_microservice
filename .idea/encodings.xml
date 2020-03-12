@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-bean-validation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka-client/user-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka-client/user-service-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka-client/user-service-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-feign-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-feign-demo/person-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-feign-demo/person-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-feign-demo/person-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-sleuth-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-stream-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zipkin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-reactive-webflux" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-web-mvc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-web-mvc-rest" charset="UTF-8" />
+  </component>
+</project>

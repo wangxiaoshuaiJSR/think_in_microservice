@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab33ba87-da60-484b-a143-399d318754fb" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/spring-reactive-webflux/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-eureka-client/target/" />
+    <ignored path="$PROJECT_DIR$/spring-web-mvc/target/" />
+    <ignored path="$PROJECT_DIR$/spring-web-mvc-rest/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-feign-demo/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-eureka-client/user-api/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-eureka-client/user-service-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-hystrix-client/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-hystrix-dashboard/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-bean-validation/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-config-client/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-config-server/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-eureka-client/user-service-provider/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-feign-demo/person-api/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-feign-demo/person-client/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-feign-demo/person-service/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-zuul-demo/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-stream-demo/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-sleuth-demo/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-zipkin-demo/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-zipkin-server/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1008767092">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="21" />
+          <entry key="JAVA" value="76" />
+          <entry key="Properties" value="52" />
+          <entry key="XML" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="4" />
+          <entry key="JAVA" value="2585" />
+          <entry key="Properties" value="1172" />
+          <entry key="XML" value="194" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-sleuth-demo/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-feign-demo/person-client/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-feign-demo/person-service/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-feign-demo/person-service/src/main/java/org/architect/wxs/provider/web/controller/PersonServiceProviderController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-zipkin-server/src/main/java/org/architect/wxs/SpringCloudZipKinSpringApplicationBootstrap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-zuul-demo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="48" column="21" selection-start-line="45" selection-start-column="7" selection-end-line="48" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-feign-demo/person-api/src/main/java/org/architect/wxs/web/WebConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#701#1011#0" expanded="true" />
+                <element signature="e#1010#1011#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-feign-demo/person-client/src/main/java/org/architect/wxs/PersonClientApplicationBootstrap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="24" column="9" selection-start-line="24" selection-end-line="25" />
+              <folding>
+                <element signature="e#941#942#0" expanded="true" />
+                <element signature="e#1023#1024#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-feign-demo/person-service/src/main/java/org/architect/wxs/PersonServiceProviderApplicationBootstrap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-feign-demo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>management.security.enabled</find>
+      <find>add</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-demo/person-api/src/main/java/org.architect.wxs/domain/Person.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-demo/person-api/src/main/java/org.architect.wxs/domain/PersonService.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-demo/person-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-demo/person-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-demo/person-client/src/main/java/org/architect/wxs/feign/web/controller/PersonClientController.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-demo/person-client/src/main/java/org/architect/wxs/feign/web/controller/PersonClientApplicationController.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-demo/person-api/src/main/java/org/architect/wxs/hystrix/PersonServiceFallback.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-demo/person-api/src/main/java/org/architect/wxs/service/PersonService.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-demo/person-client/src/main/java/org/architect/wxs/ping/LoadBalancerPing.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-demo/person-client/src/main/java/org/architect/wxs/ping/MyLoadBalancerPing.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-demo/person-client/src/main/java/org/architect/wxs/rule/LoadBalancerRule.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-demo/person-service/src/main/java/org/architect/wxs/provider/web/controller/PersonServiceProviderController.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/config/zuul-dev.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/config/zuul.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/config/zuul-test.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-server/src/main/java/org/architect/wxs/SpringCloudConfigServerApplicationBootstrap.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-zuul-demo/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-stream-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-stream-demo/src/main/java/org/architect/wxs/SpringCloudStreamApplicationBootstrap.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-stream-demo/src/main/java/org/architect/wxs/raw/api/KafkaProducerDemo.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-stream-demo/src/main/java/org/architect/wxs/consumer/KafkaConsumerListener.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-stream-demo/src/main/java/org/architect/wxs/web/controller/KafkaProducerController.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-stream-demo/src/main/java/org/architect/wxs/stream/producer/MessageSource.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-stream-demo/src/main/java/org/architect/wxs/stream/producer/MessageProducerBean.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-stream-demo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-stream-demo/src/main/java/org/architect/wxs/stream/consumer/MessageConsumerBean.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-zipkin-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zipkin-demo/src/main/java/org/architect/wxs/SpringCloudZipKinSpringApplicationBootstrap.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zipkin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zipkin-server/src/main/java/org/architect/wxs/SpringCloudZipKinSpringApplicationBootstrap.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-zipkin-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-sleuth-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-sleuth-demo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-sleuth-demo/src/main/java/org/architect/wxs/SpringCloudSluethApplicationBootstrap.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-sleuth-demo/src/main/java/org/architect/wxs/controller/DemoController.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-zuul-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zuul-demo/src/main/java/org/architect/wxs/SpringCloudZuulApplicationBootstrap.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-zuul-demo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-demo/person-api/src/main/java/org/architect/wxs/web/WebConfig.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-demo/person-client/src/main/java/org/architect/wxs/PersonClientApplicationBootstrap.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-demo/person-service/src/main/java/org/architect/wxs/PersonServiceProviderApplicationBootstrap.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-demo/person-client/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-demo/person-service/src/main/resources/application.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\software\maven\repository" />
+        <option name="mavenHome" value="D:/software/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\software\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-cloud-feign-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-cloud-feign-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="571" />
+    <option name="y" value="55" />
+    <option name="width" value="1065" />
+    <option name="height" value="835" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaInjectionPointsAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="think_in_microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="think_in_microservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584019818529" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/spring-cloud-feign-demo/person-api/src/main/java" />
+    <property name="last_opened_file_path" value="D:/file/spring-cloud-feign-demo" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\think_in_microservice\spring-cloud-zipkin-server\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringCloudZipKinSpringApplicationBootstrap">
+    <configuration name="KafkaProducerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.architect.wxs.raw.api.KafkaProducerDemo" />
+      <module name="spring-cloud-stream-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.architect.wxs.raw.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonClientApplicationBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="person-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.architect.wxs.PersonClientApplicationBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonServiceProviderApplicationBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="person-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.architect.wxs.PersonServiceProviderApplicationBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudConfigClientApplicationBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-config-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.architect.wxs.SpringCloudConfigClientApplicationBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudConfigServerApplicationBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.architect.wxs.SpringCloudConfigServerApplicationBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudEurekaServerApplicationBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.architect.wxs.SpringCloudEurekaServerApplicationBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudFeignClientBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-feign-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.architect.wxs.SpringCloudFeignClientBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudHystrixBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-hystrix-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.architect.wxs.SpringCloudHystrixBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudHystrixDashboardBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-hystrix-dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.architect.wxs.SpringCloudHystrixDashboardBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudSluethApplicationBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-cloud-sleuth-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.architect.wxs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.architect.wxs.SpringCloudSluethApplicationBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudStreamApplicationBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-cloud-stream-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.architect.wxs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.architect.wxs.SpringCloudStreamApplicationBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudZipKinSpringApplicationBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-zipkin-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.architect.wxs.SpringCloudZipKinSpringApplicationBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudZuulApplicationBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-cloud-zuul-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.architect.wxs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.architect.wxs.SpringCloudZuulApplicationBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringWebMvcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-web-mvc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.architect.wxs.SpringWebMvcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceConsumerBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-service-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.architect.wxs.UserServiceConsumerBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceProviderBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-service-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.architect.wxs.UserServiceProviderBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebFluxApplicationBootStrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-reactive-webflux" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.architect.wxs.WebFluxApplicationBootStrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.WebFluxApplicationBootStrap" />
+      <item itemvalue="Spring Boot.SpringWebMvcApplication" />
+      <item itemvalue="Spring Boot.SpringCloudFeignClientBootstrap" />
+      <item itemvalue="Spring Boot.UserServiceConsumerBootstrap" />
+      <item itemvalue="Spring Boot.SpringCloudHystrixBootstrap" />
+      <item itemvalue="Spring Boot.SpringCloudHystrixDashboardBootstrap" />
+      <item itemvalue="Spring Boot.SpringCloudEurekaServerApplicationBootstrap" />
+      <item itemvalue="Spring Boot.SpringCloudConfigClientApplicationBootstrap" />
+      <item itemvalue="Spring Boot.SpringCloudConfigServerApplicationBootstrap" />
+      <item itemvalue="Spring Boot.UserServiceProviderBootstrap" />
+      <item itemvalue="Spring Boot.PersonClientApplicationBootstrap" />
+      <item itemvalue="Spring Boot.PersonServiceProviderApplicationBootstrap" />
+      <item itemvalue="Spring Boot.SpringCloudZipKinSpringApplicationBootstrap" />
+      <item itemvalue="Spring Boot.SpringCloudZuulApplicationBootstrap" />
+      <item itemvalue="Application.KafkaProducerDemo" />
+      <item itemvalue="Spring Boot.SpringCloudStreamApplicationBootstrap" />
+      <item itemvalue="Spring Boot.SpringCloudSluethApplicationBootstrap" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringCloudZuulApplicationBootstrap" />
+        <item itemvalue="Spring Boot.SpringCloudSluethApplicationBootstrap" />
+        <item itemvalue="Spring Boot.SpringCloudStreamApplicationBootstrap" />
+        <item itemvalue="Application.KafkaProducerDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab33ba87-da60-484b-a143-399d318754fb" name="Default Changelist" comment="" />
+      <created>1583214616780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583214616780</updated>
+      <workItem from="1583214619193" duration="24994000" />
+      <workItem from="1583285378350" duration="721000" />
+      <workItem from="1583397703257" duration="10147000" />
+      <workItem from="1583461587207" duration="8577000" />
+      <workItem from="1583545855788" duration="4783000" />
+      <workItem from="1583719576477" duration="2111000" />
+      <workItem from="1583802261501" duration="2121000" />
+      <workItem from="1583886778153" duration="6770000" />
+      <workItem from="1583977990113" duration="7572000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="67796000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19369973" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3929078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5262411" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32765958" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config-client/src/main/java/org/architect/wxs/SpringCloudConfigClientApplicationBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-stream-demo/src/main/java/org/architect/wxs/raw/api/KafkaProducerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/maven/repository/org/apache/kafka/kafka-clients/0.10.1.1/kafka-clients-0.10.1.1.jar!/org/apache/kafka/common/serialization/StringSerializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/maven/repository/org/springframework/boot/spring-boot-autoconfigure/1.5.8.RELEASE/spring-boot-autoconfigure-1.5.8.RELEASE.jar!/org/springframework/boot/autoconfigure/kafka/KafkaAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-stream-demo/src/main/java/org/architect/wxs/SpringCloudStreamApplicationBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/maven/repository/org/apache/kafka/kafka-clients/0.10.1.1/kafka-clients-0.10.1.1.jar!/org/apache/kafka/common/serialization/StringDeserializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-stream-demo/src/main/java/org/architect/wxs/consumer/KafkaConsumerListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-stream-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-stream-demo/src/main/java/org/architect/wxs/web/controller/KafkaProducerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/maven/repository/org/springframework/cloud/spring-cloud-stream/1.2.2.RELEASE/spring-cloud-stream-1.2.2.RELEASE.jar!/org/springframework/cloud/stream/annotation/Output.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/maven/repository/org/springframework/cloud/spring-cloud-stream/1.2.2.RELEASE/spring-cloud-stream-1.2.2.RELEASE.jar!/org/springframework/cloud/stream/messaging/Source.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-stream-demo/src/main/java/org/architect/wxs/stream/producer/MessageProducerBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-stream-demo/src/main/java/org/architect/wxs/stream/consumer/MessageConsumerBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-stream-demo/src/main/java/org/architect/wxs/stream/producer/MessageSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-stream-demo/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1466">
+          <caret line="65" column="12" selection-start-line="18" selection-start-column="4" selection-end-line="65" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-hystrix-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="64" column="20" lean-forward="true" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-client/user-service-consumer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zipkin-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/maven/repository/org/springframework/cloud/spring-cloud-sleuth-zipkin/1.2.5.RELEASE/spring-cloud-sleuth-zipkin-1.2.5.RELEASE.jar!/org/springframework/cloud/sleuth/zipkin/ZipkinProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="53" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zipkin-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-322">
+          <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/maven/repository/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.3.5.RELEASE/spring-cloud-netflix-eureka-client-1.3.5.RELEASE.jar!/org/springframework/cloud/netflix/eureka/EurekaClientAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="172" column="41" selection-start-line="172" selection-start-column="41" selection-end-line="172" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign-demo/person-client/src/main/java/org/architect/wxs/rule/LoadBalancerRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-server/src/main/resources/application-peer1.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-server/src/main/resources/application-peer2.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-server/src/main/java/org/architect/wxs/SpringCloudEurekaServerApplicationBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/src/main/java/org/architect/wxs/SpringCloudConfigServerApplicationBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-sleuth-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" selection-start-line="18" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/config/zuul-test.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" selection-start-column="26" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign-demo/person-client/src/main/java/org/architect/wxs/feign/web/controller/PersonClientApplicationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign-demo/person-api/src/main/java/org/architect/wxs/service/PersonService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-sleuth-demo/src/main/java/org/architect/wxs/SpringCloudSluethApplicationBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-sleuth-demo/src/main/java/org/architect/wxs/controller/DemoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="32" column="47" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zuul-demo/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zuul-demo/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zuul-demo/src/main/java/org/architect/wxs/SpringCloudZuulApplicationBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/maven/repository/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign-demo/person-api/src/main/java/org/architect/wxs/web/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#701#1011#0" expanded="true" />
+            <element signature="e#1010#1011#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign-demo/person-client/src/main/java/org/architect/wxs/PersonClientApplicationBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="24" column="9" selection-start-line="24" selection-end-line="25" />
+          <folding>
+            <element signature="e#941#942#0" expanded="true" />
+            <element signature="e#1023#1024#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign-demo/person-service/src/main/java/org/architect/wxs/PersonServiceProviderApplicationBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zuul-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="48" column="21" selection-start-line="45" selection-start-column="7" selection-end-line="48" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-sleuth-demo/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign-demo/person-client/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign-demo/person-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign-demo/person-service/src/main/java/org/architect/wxs/provider/web/controller/PersonServiceProviderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zipkin-server/src/main/java/org/architect/wxs/SpringCloudZipKinSpringApplicationBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

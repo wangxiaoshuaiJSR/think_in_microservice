@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="person-api" />
+        <module name="person-client" />
+        <module name="person-service" />
+        <module name="spring-boot-bean-validation" />
+        <module name="spring-cloud-config-client" />
+        <module name="spring-cloud-config-server" />
+        <module name="spring-cloud-eureka-server" />
+        <module name="spring-cloud-hystrix-client" />
+        <module name="spring-cloud-hystrix-dashboard" />
+        <module name="spring-cloud-sleuth-demo" />
+        <module name="spring-cloud-stream-demo" />
+        <module name="spring-cloud-zipkin-server" />
+        <module name="spring-cloud-zuul-demo" />
+        <module name="spring-reactive-webflux" />
+        <module name="spring-web-mvc" />
+        <module name="spring-web-mvc-rest" />
+        <module name="user-api" />
+        <module name="user-service-consumer" />
+        <module name="user-service-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="person-api" target="1.8" />
+      <module name="person-client" target="1.8" />
+      <module name="person-service" target="1.8" />
+      <module name="spring-boot-bean-validation" target="1.8" />
+      <module name="spring-cloud-config-client" target="1.8" />
+      <module name="spring-cloud-config-server" target="1.8" />
+      <module name="spring-cloud-eureka-client" target="1.8" />
+      <module name="spring-cloud-eureka-server" target="1.8" />
+      <module name="spring-cloud-feign-demo" target="1.8" />
+      <module name="spring-cloud-hystrix-client" target="1.8" />
+      <module name="spring-cloud-hystrix-dashboard" target="1.8" />
+      <module name="spring-cloud-sleuth-demo" target="1.8" />
+      <module name="spring-cloud-stream-demo" target="1.8" />
+      <module name="spring-cloud-zipkin-demo" target="1.8" />
+      <module name="spring-cloud-zipkin-server" target="1.8" />
+      <module name="spring-cloud-zuul-demo" target="1.8" />
+      <module name="spring-reactive-webflux" target="1.8" />
+      <module name="spring-web-mvc" target="1.8" />
+      <module name="spring-web-mvc-rest" target="1.8" />
+      <module name="think_in_microservice" target="1.8" />
+      <module name="user-api" target="1.8" />
+      <module name="user-service-consumer" target="1.8" />
+      <module name="user-service-provider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-bean-validation" options="-parameters" />
+      <module name="spring-cloud-sleuth-demo" options="" />
+      <module name="spring-cloud-stream-demo" options="" />
+      <module name="spring-cloud-zipkin-demo" options="" />
+      <module name="spring-cloud-zuul-demo" options="" />
+      <module name="spring-reactive-webflux" options="-parameters" />
+      <module name="spring-web-mvc" options="-parameters" />
+      <module name="spring-web-mvc-rest" options="-parameters" />
+    </option>
+  </component>
+</project>
