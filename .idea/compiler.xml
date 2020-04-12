@@ -9,16 +9,29 @@
         <module name="person-api" />
         <module name="person-client" />
         <module name="person-service" />
+        <module name="sc-client-application" />
+        <module name="sc-config-client" />
+        <module name="sc-config-server" />
+        <module name="sc-server-application" />
+        <module name="sc-servlet-gateway" />
+        <module name="sc-zk-discovery-client" />
+        <module name="spring-application" />
         <module name="spring-boot-bean-validation" />
         <module name="spring-cloud-config-client" />
         <module name="spring-cloud-config-server" />
         <module name="spring-cloud-eureka-server" />
         <module name="spring-cloud-hystrix-client" />
         <module name="spring-cloud-hystrix-dashboard" />
+        <module name="spring-cloud-native-application" />
         <module name="spring-cloud-sleuth-demo" />
+        <module name="spring-cloud-stream-binder-http" />
+        <module name="spring-cloud-stream-binder-rocketmq" />
         <module name="spring-cloud-stream-demo" />
         <module name="spring-cloud-zipkin-server" />
         <module name="spring-cloud-zuul-demo" />
+        <module name="spring-mvc-rest" />
+        <module name="spring-mvc-view" />
+        <module name="spring-reactive" />
         <module name="spring-reactive-webflux" />
         <module name="spring-web-mvc" />
         <module name="spring-web-mvc-rest" />
@@ -28,10 +41,19 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="my-spring-cloud" target="1.8" />
       <module name="person-api" target="1.8" />
       <module name="person-client" target="1.8" />
       <module name="person-service" target="1.8" />
+      <module name="sc-client-application" target="1.8" />
+      <module name="sc-config-client" target="1.8" />
+      <module name="sc-config-server" target="1.8" />
+      <module name="sc-server-application" target="1.8" />
+      <module name="sc-servlet-gateway" target="1.8" />
+      <module name="sc-zk-discovery-client" target="1.8" />
+      <module name="spring-application" target="1.8" />
       <module name="spring-boot-bean-validation" target="1.8" />
+      <module name="spring-cloud" target="1.8" />
       <module name="spring-cloud-config-client" target="1.8" />
       <module name="spring-cloud-config-server" target="1.8" />
       <module name="spring-cloud-eureka-client" target="1.8" />
@@ -39,11 +61,17 @@
       <module name="spring-cloud-feign-demo" target="1.8" />
       <module name="spring-cloud-hystrix-client" target="1.8" />
       <module name="spring-cloud-hystrix-dashboard" target="1.8" />
+      <module name="spring-cloud-native-application" target="1.8" />
       <module name="spring-cloud-sleuth-demo" target="1.8" />
+      <module name="spring-cloud-stream-binder-http" target="1.8" />
+      <module name="spring-cloud-stream-binder-rocketmq" target="1.8" />
       <module name="spring-cloud-stream-demo" target="1.8" />
       <module name="spring-cloud-zipkin-demo" target="1.8" />
       <module name="spring-cloud-zipkin-server" target="1.8" />
       <module name="spring-cloud-zuul-demo" target="1.8" />
+      <module name="spring-mvc-rest" target="1.8" />
+      <module name="spring-mvc-view" target="1.8" />
+      <module name="spring-reactive" target="1.8" />
       <module name="spring-reactive-webflux" target="1.8" />
       <module name="spring-web-mvc" target="1.8" />
       <module name="spring-web-mvc-rest" target="1.8" />
@@ -55,11 +83,24 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="sc-client-application" options="-parameters" />
+      <module name="sc-config-client" options="-parameters" />
+      <module name="sc-config-server" options="-parameters" />
+      <module name="sc-server-application" options="-parameters" />
+      <module name="sc-servlet-gateway" options="-parameters" />
+      <module name="sc-zk-discovery-client" options="-parameters" />
+      <module name="spring-application" options="-parameters" />
       <module name="spring-boot-bean-validation" options="-parameters" />
+      <module name="spring-cloud-native-application" options="-parameters" />
       <module name="spring-cloud-sleuth-demo" options="" />
+      <module name="spring-cloud-stream-binder-http" options="-parameters" />
+      <module name="spring-cloud-stream-binder-rocketmq" options="-parameters" />
       <module name="spring-cloud-stream-demo" options="" />
       <module name="spring-cloud-zipkin-demo" options="" />
       <module name="spring-cloud-zuul-demo" options="" />
+      <module name="spring-mvc-rest" options="-parameters" />
+      <module name="spring-mvc-view" options="-parameters" />
+      <module name="spring-reactive" options="-parameters" />
       <module name="spring-reactive-webflux" options="-parameters" />
       <module name="spring-web-mvc" options="-parameters" />
       <module name="spring-web-mvc-rest" options="-parameters" />

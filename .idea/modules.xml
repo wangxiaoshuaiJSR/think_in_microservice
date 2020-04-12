@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/my-spring-cloud/my-spring-cloud.iml" filepath="$PROJECT_DIR$/my-spring-cloud/my-spring-cloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-feign-demo/person-api/person-api.iml" filepath="$PROJECT_DIR$/spring-cloud-feign-demo/person-api/person-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-feign-demo/person-client/person-client.iml" filepath="$PROJECT_DIR$/spring-cloud-feign-demo/person-client/person-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-feign-demo/person-service/person-service.iml" filepath="$PROJECT_DIR$/spring-cloud-feign-demo/person-service/person-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-spring-cloud/spring-cloud/sc-client-application/sc-client-application.iml" filepath="$PROJECT_DIR$/my-spring-cloud/spring-cloud/sc-client-application/sc-client-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-spring-cloud/spring-cloud/sc-config-client/sc-config-client.iml" filepath="$PROJECT_DIR$/my-spring-cloud/spring-cloud/sc-config-client/sc-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-spring-cloud/spring-cloud/sc-config-server/sc-config-server.iml" filepath="$PROJECT_DIR$/my-spring-cloud/spring-cloud/sc-config-server/sc-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-spring-cloud/spring-cloud/sc-server-application/sc-server-application.iml" filepath="$PROJECT_DIR$/my-spring-cloud/spring-cloud/sc-server-application/sc-server-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-spring-cloud/spring-cloud/sc-servlet-gateway/sc-servlet-gateway.iml" filepath="$PROJECT_DIR$/my-spring-cloud/spring-cloud/sc-servlet-gateway/sc-servlet-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-spring-cloud/spring-cloud/sc-zk-discovery-client/sc-zk-discovery-client.iml" filepath="$PROJECT_DIR$/my-spring-cloud/spring-cloud/sc-zk-discovery-client/sc-zk-discovery-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-spring-cloud/spring-application/spring-application.iml" filepath="$PROJECT_DIR$/my-spring-cloud/spring-application/spring-application.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-bean-validation/spring-boot-bean-validation.iml" filepath="$PROJECT_DIR$/spring-boot-bean-validation/spring-boot-bean-validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-spring-cloud/spring-cloud/spring-cloud.iml" filepath="$PROJECT_DIR$/my-spring-cloud/spring-cloud/spring-cloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-client/spring-cloud-config-client.iml" filepath="$PROJECT_DIR$/spring-cloud-config-client/spring-cloud-config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server.iml" filepath="$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-client/spring-cloud-eureka-client.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-client/spring-cloud-eureka-client.iml" />
@@ -13,10 +22,16 @@
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-feign-demo/spring-cloud-feign-demo.iml" filepath="$PROJECT_DIR$/spring-cloud-feign-demo/spring-cloud-feign-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-hystrix-client/spring-cloud-hystrix-client.iml" filepath="$PROJECT_DIR$/spring-cloud-hystrix-client/spring-cloud-hystrix-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-spring-cloud/spring-cloud/spring-cloud-native-application/spring-cloud-native-application.iml" filepath="$PROJECT_DIR$/my-spring-cloud/spring-cloud/spring-cloud-native-application/spring-cloud-native-application.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-sleuth-demo/spring-cloud-sleuth-demo.iml" filepath="$PROJECT_DIR$/spring-cloud-sleuth-demo/spring-cloud-sleuth-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-spring-cloud/spring-cloud/spring-cloud-stream-binder-http/spring-cloud-stream-binder-http.iml" filepath="$PROJECT_DIR$/my-spring-cloud/spring-cloud/spring-cloud-stream-binder-http/spring-cloud-stream-binder-http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-spring-cloud/spring-cloud/spring-cloud-stream-binder-rocketmq/spring-cloud-stream-binder-rocketmq.iml" filepath="$PROJECT_DIR$/my-spring-cloud/spring-cloud/spring-cloud-stream-binder-rocketmq/spring-cloud-stream-binder-rocketmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-stream-demo/spring-cloud-stream-demo.iml" filepath="$PROJECT_DIR$/spring-cloud-stream-demo/spring-cloud-stream-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-zipkin-server/spring-cloud-zipkin-server.iml" filepath="$PROJECT_DIR$/spring-cloud-zipkin-server/spring-cloud-zipkin-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-zuul-demo/spring-cloud-zuul-demo.iml" filepath="$PROJECT_DIR$/spring-cloud-zuul-demo/spring-cloud-zuul-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-spring-cloud/spring-mvc-rest/spring-mvc-rest.iml" filepath="$PROJECT_DIR$/my-spring-cloud/spring-mvc-rest/spring-mvc-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-spring-cloud/spring-mvc-view/spring-mvc-view.iml" filepath="$PROJECT_DIR$/my-spring-cloud/spring-mvc-view/spring-mvc-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-spring-cloud/spring-reactive/spring-reactive.iml" filepath="$PROJECT_DIR$/my-spring-cloud/spring-reactive/spring-reactive.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-reactive-webflux/spring-reactive-webflux.iml" filepath="$PROJECT_DIR$/spring-reactive-webflux/spring-reactive-webflux.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-web-mvc/spring-web-mvc.iml" filepath="$PROJECT_DIR$/spring-web-mvc/spring-web-mvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-web-mvc-rest/spring-web-mvc-rest.iml" filepath="$PROJECT_DIR$/spring-web-mvc-rest/spring-web-mvc-rest.iml" />

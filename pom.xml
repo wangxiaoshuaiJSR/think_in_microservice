@@ -29,6 +29,7 @@
         <module>spring-cloud-stream-demo</module>
         <module>spring-cloud-sleuth-demo</module>
         <module>spring-cloud-zipkin-server</module>
+        <module>my-spring-cloud</module>
     </modules>
 
 

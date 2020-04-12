@@ -2,6 +2,21 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-spring-cloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-spring-cloud/spring-application" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-spring-cloud/spring-cloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-spring-cloud/spring-cloud/sc-client-application" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-spring-cloud/spring-cloud/sc-config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-spring-cloud/spring-cloud/sc-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-spring-cloud/spring-cloud/sc-server-application" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-spring-cloud/spring-cloud/sc-servlet-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-spring-cloud/spring-cloud/sc-zk-discovery-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-spring-cloud/spring-cloud/spring-cloud-native-application" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-spring-cloud/spring-cloud/spring-cloud-stream-binder-http" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-spring-cloud/spring-cloud/spring-cloud-stream-binder-rocketmq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-spring-cloud/spring-mvc-rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-spring-cloud/spring-mvc-view" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-spring-cloud/spring-reactive" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-bean-validation" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-config-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-config-server" charset="UTF-8" />

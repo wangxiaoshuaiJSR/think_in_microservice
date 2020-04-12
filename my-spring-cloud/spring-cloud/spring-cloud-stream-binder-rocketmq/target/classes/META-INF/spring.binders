@@ -1,0 +1,2 @@
+rocketmq=\
+org.architect.wxs.RocketMQMessageChannelBinderConfiguration
